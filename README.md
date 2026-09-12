@@ -1,6 +1,4 @@
 # beginning-bioinformatics
 Beginning Bioinformatics course code
 
-Name: Cortlin Gerdes
-UTA ID: 1001986892
-Course: BIOL5340-001
+Cortlin Gerdes + 1001986892 + BIOL5340-001
